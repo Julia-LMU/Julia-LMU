@@ -1,5 +1,6 @@
 # About me
 
+Hi all, I'm a PhD student in biology/botany.
 My doctoral research focuses on the adaptation of plants to arid desert environments. Using comparative transcriptomics, I will investigate the underlying genetic mechanisms which allow plants to survive in the extreme conditions of the desert.
 I am further interested in the systematics of liverworts, specifically of the genus Metzgeria.
 

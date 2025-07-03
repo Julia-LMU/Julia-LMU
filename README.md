@@ -1,9 +1,7 @@
 # About me
 
-
-**Julia-LMU/Julia-LMU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+My doctoral research focuses on the adaptation of plants to arid desert environments. Using comparative transcriptomics, I will investigate the underlying genetic mechanisms which allow plants to survive in the extreme conditions of the desert.
+I am further interested in the systematics of liverworts, specifically of the genus Metzgeria.
 
 - 🔭 I’m currently working on the assembly and annotation of genomes
 - 🌱 I’m currently learning how to use Conda and GitHub (and how to do genome assemblies/annotations)
